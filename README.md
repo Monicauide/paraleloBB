@@ -1,0 +1,2 @@
+# paraleloBB
+ejericios de logica
